@@ -1,0 +1,8 @@
+{
+  "name": "Roadmap B1 English Testing Suite",
+  "description": "An interactive practice and testing application for Roadmap B1 level English, covering Grammar, Vocabulary, and Function across Units 1 to 7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
