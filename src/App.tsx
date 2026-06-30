@@ -353,9 +353,13 @@ export default function App() {
         {/* Applet Header */}
         <div className="bg-slate-50 px-6 py-4.5 border-b border-slate-200 flex items-center justify-between">
           <div className="flex items-center space-x-2.5">
+
+          <a href="/">
             <div className="w-9 h-9 rounded-xl bg-indigo-600 flex items-center justify-center text-white font-black text-lg shadow-md shadow-indigo-100">
               R
             </div>
+            
+          </a>
             <div>
               <h1 className="text-sm font-black text-slate-800 leading-none">Roadmap B1</h1>
               <p className="text-[10px] text-slate-500 font-bold mt-1 uppercase tracking-wider">English Practice Suite</p>
